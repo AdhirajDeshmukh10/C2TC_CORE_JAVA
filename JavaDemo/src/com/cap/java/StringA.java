@@ -7,7 +7,7 @@ public class StringA {
 	{
 		String var = new String("Hello world");
 		System.out.println(var);
-		// TODO Auto-generated method stub
+	
 
 	}
 
