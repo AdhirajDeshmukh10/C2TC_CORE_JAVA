@@ -24,7 +24,7 @@ public class Demo {
 	
 	public String run()
 	{
-		if(doors.equals("closed")&& speed>0)
+		if(doors.equals("closed")&& speed>10)
 		{
 			return "return";
 			
